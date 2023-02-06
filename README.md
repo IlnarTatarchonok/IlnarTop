@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/3ogwFGEHrVxusDbDjO/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/3ogwFGEHrVxusDbDjO/giphy.gif" width="500"/>
 
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
@@ -21,3 +21,11 @@
 <div align="center">
   <img src="https://media.giphy.com/media/KphDFbotQHzU5LBnBu/giphy.gif" width="500" height="300"/>
 </div>
+Лучшие татары на этом свете <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  
+  
+- :telescope: Татары
+
+- :seedling: Могут
+
+- :zap: Мине онларга
